@@ -1,0 +1,156 @@
+body {
+    background-color: #edd7e5;
+}
+header {
+    background: url("images/Аннушка.png") no-repeat center top;
+    background-size: 30%;
+    height: 400px;
+}
+table#Flowers {
+    margin-top: 40px;
+}
+    table#Flowers td {
+    background-color: white;
+    width: 150px;
+    height: 970px;
+    border: 5px solid #FCB4D5;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'Fasthand', cursive;
+    font-style: italic;
+    font-size: larger;
+}
+
+p {
+    background-color: white;
+    width: 150px;
+    height: 700px;
+    margin-top: -170px;
+}
+
+section.sectionTable {
+    height: 40px;
+    color: white;
+}
+
+td.one {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+td.one p {
+    background-image: url("images/pink.png");
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+td.two {
+    
+    position: relative;
+    top: 10px;
+    left: -10px;
+}
+td.two p {
+    background-image: url("images/pinklittle.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+td.free {
+    
+    position: relative;
+    top: 10px;
+    left: -30px;
+}
+td.free p {
+    background-image: url("images/raduga.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+td.four {
+    
+    position: relative;
+    top: 10px;
+    left: -50px;
+}
+td.four p {
+    background-image: url("images/red.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+td.five {
+    
+    position: relative;
+    top: 10px;
+    left: -70px;
+}
+td.five p {
+    background-image: url("images/redandwhite.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+td.six {
+    
+    position: relative;
+    top: 10px;
+    left: -90px;
+}
+td.six p {
+    background-image: url("images/redpink.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+td.seven {
+    
+    position: relative;
+    top: 10px;
+    left: -110px;
+}
+td.seven p {
+    background-image: url("images/white.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+section#konstruktor {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+section#konstruktor aside {
+    border-radius: 20px;
+    background-color: #E6A8D7;
+    height: 400px;
+}
+
+section aside#oneAside {
+    width: 520px;
+    margin-bottom: -400px;
+}
+
+
+section aside#twoAside {
+    position: relative;
+    left: 540px;
+    margin-right: 1160px;
+}
+
+section aside#threeAside {
+    float: right;
+    position: relative;
+    top: -400px;
+    width: 600px;
+    margin-bottom: -500px;
+}
+section#konstruktor aside:hover {
+    background-color: #cb4154 ;
+}
+
