@@ -6,8 +6,10 @@ header {
     background-size: 30%;
     height: 400px;
 }
-table#Flowers {
-    margin-top: 40px;
+div#lineFlowers {
+    margin-top: 20px;
+    border: 5px outset #e982e4da;
+    padding-bottom: 30px;
 }
     table#Flowers td {
     background-color: white;
