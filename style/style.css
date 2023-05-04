@@ -2,7 +2,7 @@ body {
     background-color: #edd7e5;
 }
 header {
-    background: url("images/Аннушка.png") no-repeat center top;
+    background: url("../images/Аннушка.png") no-repeat center top;
     background-size: 30%;
     height: 400px;
 }
@@ -40,7 +40,7 @@ td.one {
 }
 
 td.one p {
-    background-image: url("images/pink.png");
+    background-image: url("../images/pink.png");
     background-size: 800px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -52,7 +52,7 @@ td.two {
     left: -10px;
 }
 td.two p {
-    background-image: url("images/pinklittle.png");
+    background-image: url("../images/pinklittle.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -65,7 +65,7 @@ td.free {
     left: -30px;
 }
 td.free p {
-    background-image: url("images/raduga.png");
+    background-image: url("../images/raduga.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -77,7 +77,7 @@ td.four {
     left: -50px;
 }
 td.four p {
-    background-image: url("images/red.png");
+    background-image: url("../images/red.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -89,7 +89,7 @@ td.five {
     left: -70px;
 }
 td.five p {
-    background-image: url("images/redandwhite.png");
+    background-image: url("../images/redandwhite.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -101,7 +101,7 @@ td.six {
     left: -90px;
 }
 td.six p {
-    background-image: url("images/redpink.png");
+    background-image: url("../images/redpink.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -113,7 +113,7 @@ td.seven {
     left: -110px;
 }
 td.seven p {
-    background-image: url("images/white.png");
+    background-image: url("../images/white.png");
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: top center;
